@@ -2,6 +2,6 @@
 
 Esta serie de libros cuentan la historia de un gran hacker.
 
-**Marian Martínez**
+**Marian Martínez**, Git lover.
 
 
